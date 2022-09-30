@@ -1,0 +1,51 @@
+<!---Navigation-->
+	nav
+    <!--First bar of nav with logo-->
+		.user-bar
+    <!--Second bar of nav with menu-->
+		.nav-bar
+
+<!---Introduction Section-->
+	.index-intro
+    <!--First section of intro-->
+		.index-intro-1
+	<!--Images between first and second intro sections-->
+		.centrios-lock-01
+		.centrios-pattern-01
+	<!--Second section of intro-->
+		.index-intro-2
+		<!--Content on the right side-->
+			.right
+	<!--Third section of intro-->
+		.index-intro-3
+	<!--Fourth section of intro-->
+		.index-intro-4
+		<!--Content on the left side-->
+			.left
+		<!--Content on the top right side-->
+			.top-right
+		<!--Content on the bottom right side-->
+			.bottom-right
+
+<!---How It Works Section-->
+	.index-how
+
+<!---Small Business Section-->
+	.index-small
+	<!--First section of small-->
+		.index-small-1
+	<!--Second section of small-->
+		.index-small-2
+		<!--Content in the middle-->
+			.middle
+		<!--Content on the right-->
+			.right
+
+<!---Footer-->
+	footer
+	<!--Content in middle section-->
+		.middle-section
+		<!--Content for joining newsletter-->
+			.join
+	<!--Content in the bottom section-->
+		.bottom-section
