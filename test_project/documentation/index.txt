@@ -1,53 +1,57 @@
-Navigation
+Table of Contents 
+for index.txt and 
+related elements in main.css:
+
+1)Navigation
 	nav
-    First bar of nav with logo
+    a)First bar of nav with logo
 		.user-bar
-		    Content on the right
+		    i)Content on the right
             .right
-    Second bar of nav with menu
+    b)Second bar of nav with menu
 		.nav-bar
 
-Introduction Section
+2)Introduction Section
 	.index-intro
-    First section of intro
+    a)First section of intro
 		.index-intro-1
-	Images between first and second intro sections
+	b)Images between first and second intro sections
 		.centrios-lock-01
 		.centrios-pattern-01
-	Second section of intro
+	c)Second section of intro
 		.index-intro-2
-		Content on the right side
+		i)Content on the right side
 			.right
-	Third section of intro
+	d)Third section of intro
 		.index-intro-3
-	Fourth section of intro
+	e)Fourth section of intro
 		.index-intro-4
-		Content on the left side
+		i)Content on the left side
 			.left
-		Content on the top right side
+		ii)Content on the top right side
 			.top-right
-		Content on the bottom right side
+		iii)Content on the bottom right side
 			.bottom-right
 
-How It Works Section
+3)How It Works Section
 	.index-how
 
-Small Business Section
+4)Small Business Section
 	.index-small
-	First section of small
+	a)First section of small
 		.index-small-1
-	Second section of small
+	b)Second section of small
 		.index-small-2
-		Content in the middle
+		i)Content in the middle
 			.middle
-		Content on the right
+		ii)Content on the right
 			.right
 
-Footer
+5)Footer
 	footer
-	Content in middle section
+	a)Content in middle section
 		.middle-section
-		Content for joining newsletter
+		i)Content for joining newsletter
 			.join
-	Content in the bottom section
+	b)Content in the bottom section
 		.bottom-section
