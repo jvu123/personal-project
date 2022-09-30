@@ -24,7 +24,7 @@ nav{
 
         /*Content on the right*/
         .user-bar .right{
-
+            width: 100%;
         }
 
     /*Second bar of nav with menu*/
@@ -37,106 +37,106 @@ nav{
 
 /*Introduction Section*/
 .index-intro{
-
+    width: 100%;
 }
 
     /*First section of intro*/
     .index-intro-1{
-
+        width: 100%;
     }
 
     /*Images between first and second intro sections*/
     .centrios-lock-01{
-
+        width: 100%;
     }
 
 	.centrios-pattern-01{
-
+        width: 100%;
     }
 
     /*Second section of intro*/
     .index-intro-2{
-
+        width: 100%;
     }
 
         /*Content on the right side*/
         .index-intro-2 .right{
-
+            width: 100%;
         }
     
     /*Third section of intro*/
     .index-intro-3{
-
+        width: 100%;
     }
 
     /*Fourth section of intro*/
     .index-intro-4{
-        
+        width: 100%;
     }
 
         /*Content on the left side*/
         .index-intro-4 .left{
-        
+            width: 100%;
         }
 
         /*Content on the top right side*/
         .index-intro-4 .top-right{
-        
+            width: 100%;
         }
 
         /*Content on the bottom right side*/
         .index-intro-4 .bottom-right{
-        
+            width: 100%;
         }
 
 /*How It Works Section*/
 .index-how{
-
+    width: 100%;
 }
 
 /*Small Business Section*/
 .index-small{
-
+    width: 100%;
 }
 
     /*First section of small*/
     .index-small-1{
-
+        width: 100%;
     }
 
     /*Second section of small*/
     .index-small-2{
-
+        width: 100%;
     }
 
         /*Content in the middle*/
         .index-small-2 .middle{
-
+            width: 100%;
         }
 
         /*Content on the right*/
         .index-small-2 .right{
-
+            width: 100%;
         }
 
 /*Footer*/
 footer{
-
+    width: 100%;
 }
 
     /*Content in middle section*/
     .middle-section{
-
+        width: 100%;
     }
 
         /*Content for joining newsletter*/
         .middle-section .join{
-
+            width: 100%;
         }
 
     /*Content in the bottom section*/
     .bottom-section{
-
+        width: 100%;
     }
 
 /**/
