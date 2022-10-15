@@ -198,14 +198,14 @@ nav{
         justify-content: space-between;
     }
         /*Content on the left side*/
-        .left{
+        .index-intro-2 .left{
             width: 689px;
+            margin: 32px 31px 32px 0;
         }
 
             .index-intro-2 img{
                 width: 689px;
                 height: 666px;
-                margin: 31px 0 0 0;
             }
 
         .index-intro-2 .line{
@@ -215,14 +215,15 @@ nav{
         }
 
         /*Content on the right side*/
-        .right{
+        .index-intro-2 .right{
             width: 689px;
+            margin: 173px 0 0 96px;
         }
 
             .top-p{
                 width: 424px;
                 height: 32px;
-                margin: 173px 0px 20px 0px;
+                margin: 0 0px 20px 0px;
                 font-size: 24px;
                 font-weight: normal;
                 font-stretch: normal;
