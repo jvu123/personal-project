@@ -198,11 +198,14 @@ nav{
         justify-content: space-between;
     }
         /*Content on the left side*/
+        .left{
+            width: 689px;
+        }
 
             .index-intro-2 img{
                 width: 689px;
                 height: 666px;
-                margin: 32px 31px 32px 0;
+                margin: 31px 0 0 0;
             }
 
         .index-intro-2 .line{
@@ -212,6 +215,9 @@ nav{
         }
 
         /*Content on the right side*/
+        .right{
+            width: 689px;
+        }
 
             .top-p{
                 width: 424px;
