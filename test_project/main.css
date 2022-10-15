@@ -20,7 +20,14 @@ nav{
     .user-bar{
         width: 100%;
         height: 64px;
+        display:flex;
     }
+
+        .user-bar-logo{
+            width: 149px;
+            height: 36px;
+            justify-content: center;
+        }
 
         /*Content on the right*/
         .user-bar .right{
@@ -36,7 +43,7 @@ nav{
     }
 
 /*Introduction Section*/
-.index-intro{
+#index-intro{
     width: 100%;
 }
 
@@ -90,12 +97,12 @@ nav{
         }
 
 /*How It Works Section*/
-.index-how{
+#index-how{
     width: 100%;
 }
 
 /*Small Business Section*/
-.index-small{
+#index-small{
     width: 100%;
 }
 
