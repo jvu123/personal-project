@@ -34,13 +34,25 @@ nav{
 
         /*Content on the right*/
         .user-bar .right{
+            height: 100%;
             display:flex;
+            align-items: center;
         }
 
-            .user-bar .right p{
-                width: 53px;
+            .actions-operations-search-32{
+                width: 20.3px;
+                height: 20.3px;
+                padding: 2px 8px 0px 7.5px;
+                color: #002e6d;
+            }
+            .person-user-user-avatar-24{
+                width: 24px;
                 height: 24px;
-                margin: 4.4px 32.3px 19px 8px;
+                margin: 0px 8px 0px 12.3px;
+            }
+
+            .user-bar .right a{
+                margin: 0px 20px 0px 0px;
                 font-size: 16px;
                 font-weight: 300;
                 font-stretch: normal;
@@ -48,19 +60,8 @@ nav{
                 line-height: 1.5;
                 letter-spacing: normal;
                 color: #072c60;
-            }
-
-            .actions-operations-search-32{
-                width: 20.3px;
-                height: 20.3px;
-                margin: 6.9px 8px 20.3px 7.5px;
-                color: #002e6d;
-            }
-
-            .person-user-user-avatar-24{
-                width: 24px;
-                height: 24px;
-                margin: 5.4px 8px 18px 32.3px;
+                text-decoration: none;
+                display: flex;
             }
 
     /*Second bar of nav with menu*/
